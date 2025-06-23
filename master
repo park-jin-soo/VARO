@@ -1,0 +1,30 @@
+{
+  "users": {
+    "동탄점": {
+      "name": "동탄점",
+      "expire_date": "2025-07-31",
+      "status": "active",
+      "created_date": "2025-06-23"
+    },
+    "안양점": {
+      "name": "안양점",
+      "expire_date": "2025-07-31",
+      "status": "active",
+      "created_date": "2025-06-23"
+    },
+    "용인점": {
+      "name": "용인점",
+      "expire_date": "2025-07-31",
+      "status": "active",
+      "created_date": "2025-06-23"
+    },
+    "안산점": {
+      "name": "안산점",
+      "expire_date": "2025-07-31",
+      "status": "inactive",
+      "created_date": "2025-06-23"
+    }
+  },
+  "last_updated": "2025-06-23 22:28:00",
+  "total_users": 4
+}
