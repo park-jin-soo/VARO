@@ -14,7 +14,7 @@
     },
     "guest": {
       "name": "guest",
-      "expire_date": "2025-10-09",
+      "expire_date": "2025-12-31",
       "status": "active",
       "created_date": "2025-09-01"
     },
